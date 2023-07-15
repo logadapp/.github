@@ -1,7 +1,7 @@
 <h1 align="center">LogadApp</h1>
 
 ## Hi there 👋
-On the road to create a framework, I started this organisation. Mostly experiments but it'll all click together at one point
+On the road to create a framework, Mostly experiments but it'll all click together at one point
 
 ### info
 I try to make the codes as simple as possible but also efficient
